@@ -6,6 +6,8 @@ I'm a engineer, developer, and tech enthusiast who enjoys building.
 
 My other interests include music production and art. I love anything that involves creativity.
 
+My dream is to make a meaningful cultural impact on the world.
+
 ### 🌱 What I'm doing now
 - Pursuing MechE + Mathematics as an undergrad
 - Building personal side projects (please explore my repositories!)
