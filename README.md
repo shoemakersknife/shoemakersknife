@@ -4,7 +4,7 @@
 
 My dream is to make a meaningful cultural impact on the world.
 
-I'm an engineer, developer, and tech enthusiast who enjoys building.
+I'm an engineer, developer, and tech enthusiast who enjoys creating.
 
 My other interests include music production and art. I love anything that involves creativity.
 
