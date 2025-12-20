@@ -1,7 +1,5 @@
 # Hi, I'm Michael. :)
 
-*Curiosity may have killed the cat, but we aren't cats.*
-
 My dream is to make a meaningful cultural impact on the world.
 
 I'm an engineer, developer, and tech enthusiast who enjoys creating.
