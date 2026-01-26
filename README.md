@@ -7,7 +7,7 @@ I'm an engineer, developer, and tech enthusiast who enjoys creating.
 My other interests include music production and art. I love anything that involves creativity.
 
 ### 🌱 What I'm doing now
-- Pursuing MechE + Mathematics as an undergrad
+- Pursuing Math + MechE as an undergrad
 - Building personal side projects (please explore my repositories!)
 - Making more contributions to open source
 
