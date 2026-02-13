@@ -1,6 +1,4 @@
-# Hi, I'm Michael. :)
-
-My dream is to make a meaningful cultural impact on the world.
+# Hi, I'm Michael.
 
 I'm an engineer, developer, and tech enthusiast who enjoys creating.
 
