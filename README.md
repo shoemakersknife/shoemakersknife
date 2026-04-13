@@ -1,6 +1,6 @@
 # hi, im michael.
 
-im an engineer, developer, and tech enthusiast who enjoys creating. im currently an undergrad @ rutgers.
+engineer, developer, and undergrad @ rutgers.
 
 my other interests include music production and visual design.
 
