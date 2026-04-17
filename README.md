@@ -1,4 +1,4 @@
-# michael kim
+# hi, im michael.
 
 engineer, developer, and undergrad @ rutgers.
 
