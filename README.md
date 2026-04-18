@@ -1,6 +1,4 @@
-<p align="left">
-  <img src="./banner.svg" />
-</p>
+![banner](./banner.svg)
 
 my other interests include music production and visual design.
 
