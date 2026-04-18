@@ -8,9 +8,9 @@
 
   <style>
     .name {
-      font-family: 'STIX Two Text';
+      font-family: Georgia;
       font-size: 58px;
-      font-weight: 400;
+      font-weight: 500;
       fill: url(#textGradient);
       letter-spacing: -0.4px;
       opacity: 0;
@@ -18,9 +18,9 @@
     }
 
     .subtitle {
-      font-family: 'STIX Two Text';
+      font-family: Georgia;
       font-size: 22px;
-      font-weight: 300;
+      font-weight: 400;
       fill: #8b949e;
       letter-spacing: 0.3px;
       opacity: 0;
