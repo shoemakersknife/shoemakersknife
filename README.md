@@ -1,4 +1,4 @@
-# hi, im michael.
+![banner](./banner.svg)
 
 engineer, developer, and undergrad @ rutgers.
 
