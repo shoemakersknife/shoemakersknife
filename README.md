@@ -1,4 +1,6 @@
-![banner](./banner.svg)
+<p align="left">
+  <img src="./banner.svg" />
+</p>
 
 my other interests include music production and visual design.
 
